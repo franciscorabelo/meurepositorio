@@ -1,1 +1,4 @@
-# meurepositorio
+# Hacker do Bem - Blue Team
+## Módulo 1 | Aula 04: Gerenciamento de Configuração e Infraestrutura como Serviço (IaC)
+
+Este repositório é parte da atividades práticas referentes à Aula 4 do curso de Blue Team. 
